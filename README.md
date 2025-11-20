@@ -220,17 +220,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **TechGen Vendors (PVT) Ltd** - *Initial work*
-- **Your Name** - *Developer* - [Your GitHub](https://github.com/yourusername)
+- Thisas Jayasooriya -(https://github.com/securedbytes
 
 ## 📧 Contact
 
 **City Electronics**
-- Location: Galle, Sri Lanka
-- Developer: TechGen Vendors (PVT) Ltd
-- Email: contact@cityelectronics.lk (example)
+- Developer:Securedbytes
 
-**Project Link:** [https://github.com/yourusername/city-electronics-management-system](https://github.com/yourusername/city-electronics-management-system)
+
+**Project Link:** [https://github.com/yourusername/city-electronics-management-system](https://github.com/Securedbytes/city-electronics-management-system)
 
 ## 🙏 Acknowledgments
 
