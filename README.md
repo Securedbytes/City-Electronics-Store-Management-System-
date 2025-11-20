@@ -232,7 +232,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Designed for City Electronics Store, Galle, Sri Lanka
 - Built with modern web technologies
 - Inspired by real-world retail management needs
 
